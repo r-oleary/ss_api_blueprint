@@ -2,7 +2,7 @@ FORMAT: 1A
 HOST: https://selfservice-3.rightscale.com
 
 # RightScale Self-Service API
-The RightScale Self-Service API lets you interact with cloud resources at the application level, instead of the component level.
+The RightScale Self-Service API lets you interact with cloud resources at the application level, instead of the component level. Isn't that cool?
 
 # Group Applications
 Resources that represent the Applications that are available in the Catalog
